@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently following BSc in Management Information Systems(Special) at NSBM Green University.
+
 <!--
 **BupendraDhyan/BupendraDhyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
