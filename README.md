@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bupendra Dhyan</h1>
+<h1 align="center">Hi 👋, I'm Bupendra Wijegunawardhana</h1>
 <h3 align="center">An Undergraduate From NSBM Green University.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/d3/95/e4d395849317f98f2a418c0e10182b0d.gif">
 
