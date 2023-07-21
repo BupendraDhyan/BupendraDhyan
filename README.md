@@ -2,7 +2,7 @@
 <h3 align="center">An Undergraduate From NSBM Green University.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/d3/95/e4d395849317f98f2a418c0e10182b0d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BupendraDhyan&label=Profile%20views&color=0e75b6&style=flat" alt="tha-rusha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BupendraDhyan&label=Profile%20views&color=0e75b6&style=flat" alt="BupendraDhyan" /> </p>
 
 
 - 🔭 I’m currently working on *C | HTML | PHP | Adobe Ps | Adobe Ai*
