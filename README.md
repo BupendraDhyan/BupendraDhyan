@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src ="https://imgur.com/vqcGSwV" />
+
 
 </div>
 
