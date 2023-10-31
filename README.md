@@ -32,6 +32,13 @@
 <h2 align="center">GitHub Stats:</h3>
 <div align="center">
 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=bupendradhyan&no-bg=true&no-frame=true&column=4&theme=algolia)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=bupendradhyan&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
+![streak](https://github-contributor-stats.vercel.app/api?username=bupendradhyan&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BupendraDhyan&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BupendraDhyan" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=BupendraDhyan&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="BupendraDhyan" />
