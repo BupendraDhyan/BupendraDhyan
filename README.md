@@ -46,6 +46,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BupendraDhyan&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/bupendra.dhyan.png" alt="TryHackMe">
+
 
 
 
