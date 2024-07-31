@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **bddwijegunawardhana@gmail.com**
 
-- 🐍 `print(random.choice(dev_quote))`
+- 🐍 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=maroongold&animation=default&layout=zues&font=Architect&fontColor=skyblue&bgColor=black)
 </div>
 
 
