@@ -26,6 +26,7 @@
 <div align="center">
  
  ![My Credly Badge](https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png)
+ ![My MS badge](https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg)
  
 </div>
 
