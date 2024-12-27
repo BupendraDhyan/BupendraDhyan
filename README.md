@@ -24,7 +24,9 @@
 
 <h2 align="center">Badges:</h2>
 <div align="center">
- ![My Credly Badge](https://www.credly.com/badges/6349a133-d1fb-4c6c-8ebc-88dfd491d92e/public_url)
+ 
+ ![My Credly Badge](https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png)
+ 
 </div>
 
 
